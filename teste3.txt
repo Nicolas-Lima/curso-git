@@ -11,3 +11,9 @@ dsadasdsadsadsa
 
 aaa<h3>Teste criação 3</h3>
 <h3>Função X</h3>
+
+<h1>Testando stash dentro da branch 'teste_branch_4'
+
+Isso foi criado apartir da 'teste_branch_4'
+
+'teste_branch_4'
