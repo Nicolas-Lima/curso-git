@@ -9,3 +9,5 @@ sdas
 
 Enviando a funcionalidade
 X feita pelo 2_repo
+
+Funcionalidade B
